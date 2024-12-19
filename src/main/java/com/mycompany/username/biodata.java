@@ -80,9 +80,9 @@ public class biodata extends javax.swing.JFrame {
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
 
-        jCheckBox1.setText("jCheckBox1");
+        jCheckBox1.setText("modif motor");
 
-        jCheckBox2.setText("jCheckBox2");
+        jCheckBox2.setText("tidur");
 
         jLabel6.setFont(new java.awt.Font("Segoe UI Emoji", 0, 14)); // NOI18N
         jLabel6.setText("Hobby");
